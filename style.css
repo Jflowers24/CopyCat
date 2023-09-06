@@ -1,0 +1,111 @@
+.bodycolor{
+    background-color:white;
+}
+
+
+
+.linkedinlogo{
+    height: 69px;
+    width: 105px;
+    position:absolute;
+    left:50px;
+}
+
+.table{
+    position: absolute;
+    top:500px;
+    left:500px;
+    background-color:white;
+    border-collapse:collapse;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    width:300px;
+}
+
+.tcells{
+    height:39px;
+    text-align:center;
+    font-size:xx-large
+    
+}
+
+.tablehead{
+    font-size:40px;
+    text-align: left;
+    
+    
+}
+
+.stayup{
+    font-size: small;
+    text-align:left;
+}
+
+.placeholder{
+    text-align:center;
+
+}
+
+.button{
+    width:250px;
+    height:50px;
+    text-align:center;
+    background-color:rgb(35, 109, 212);
+    border-radius:100px 100px;
+    color:white
+    
+}
+
+
+.forgotpw{
+    color:blue;
+    text-align: center;
+}
+
+h2 {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #e4e1e1; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+    
+ } 
+
+ h2 span { 
+    background:#ffffff; 
+    padding:0 10px; 
+    color:#787878;
+    font-size:medium;
+}
+
+.button2{
+    width:250px;
+    height:45px;
+    text-align:center;
+    background-color:white;
+    border-radius:100px 100px;
+    color:rgb(0, 0, 0);
+    font-size: x-small;
+} 
+
+.button3{
+    width:250px;
+    height:50px;
+    text-align:center;
+    background-color:white;
+    border-radius:100px 100px;
+    color:rgb(0, 0, 0);
+    font-size: medium;
+}
+
+.join{
+    position:absolute;
+    top: 880px;
+    left: 675px;
+    color:blue;
+
+}
+.newto{
+    position:absolute;
+    top: 880px;
+    left: 550px;  
+}
