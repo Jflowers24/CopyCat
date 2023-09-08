@@ -84,7 +84,7 @@
 
 }
 
-h2 {
+.h2 {
     width: 100%; 
     text-align: center; 
     border-bottom: 1px solid #e4e1e1; 
@@ -93,7 +93,7 @@ h2 {
     
  } 
 
- h2 span { 
+ .h2 span { 
     background:#ffffff; 
     padding:0 10px; 
     color:#787878;
