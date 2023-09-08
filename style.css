@@ -264,4 +264,10 @@ h2 {
 
 }
 
+
+.screenfit{
+width:100%;
+height: fit-content;
+
+}
 /* .icon */
