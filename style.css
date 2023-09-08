@@ -1,5 +1,7 @@
 .bodycolor{
     background-color:white;
+    overflow: hidden;
+    
 }
 
 
@@ -127,6 +129,7 @@ h2 {
     background-size:47px;
     background-repeat: no-repeat;
     background-position:25px;
+    
 }
 
 .join{
